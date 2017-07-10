@@ -1,4 +1,4 @@
-package com.algorithms.BreadthFirstSearch.implementation;
+package com.algorithms.search.BreadthFirstSearch.implementation;
 
 import java.util.LinkedList;
 import java.util.Queue;

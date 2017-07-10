@@ -1,4 +1,4 @@
-package com.algorithms.BreadthFirstSearch.implementation;
+package com.algorithms.search.BreadthFirstSearch.implementation;
 
 /**
  * Run a Breadth First Search

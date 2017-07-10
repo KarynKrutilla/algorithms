@@ -1,4 +1,4 @@
-package com.algorithms.BreadthFirstSearch.WebCrawler;
+package com.algorithms.search.BreadthFirstSearch.WebCrawler;
 
 /**
  * Crawl the web, starting at http://www.bbc.com

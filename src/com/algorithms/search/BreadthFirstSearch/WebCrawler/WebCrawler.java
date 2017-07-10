@@ -1,4 +1,4 @@
-package com.algorithms.BreadthFirstSearch.WebCrawler;
+package com.algorithms.search.BreadthFirstSearch.WebCrawler;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

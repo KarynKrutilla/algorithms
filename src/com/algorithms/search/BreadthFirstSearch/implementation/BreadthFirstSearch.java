@@ -19,7 +19,7 @@ public class BreadthFirstSearch {
         while(!queue.isEmpty()) {
             // Take first value off the queue and print it
             Vertex actualVertex = queue.remove();
-            System.out.println(actualVertex + " ");
+            System.out.println(actualVertex);
             // Check each of the vertex's neighbors
             for(Vertex v : actualVertex.getNeighborList()) {
                 // If we haven't visited the neighbor, visit it and add to queue

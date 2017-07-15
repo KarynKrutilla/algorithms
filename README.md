@@ -7,6 +7,8 @@
    com.algorithms.search.BinarySearch
 3. Bubble Sort  
    com.algorithms.sort.BubbleSort  
-4a. Depth First Search - with Stack  
-   com.algorithms.search.DepthFirstSearch.StackImplementation  
-4b. Depth First Search - with recursion  
+4. Depth First Search:
+   a. With Stack  
+   	com.algorithms.search.DepthFirstSearch.StackImplementation  
+   b. With Recursion  
+	com.algorithms.search.DepthFirstSearch.RecursionImplementation  

@@ -12,10 +12,10 @@ package com.algorithms.search.DepthFirstSearch.StackImplementation;
  *
  * Output should look like this:
  * 1
- * 4
- * 5
  * 2
  * 3
+ * 4
+ * 5
  */
 public class App {
 
@@ -31,8 +31,8 @@ public class App {
         Vertex vertex5 = new Vertex("5");
 
         // Link neighbors together
-        vertex1.addNeighbor(vertex2);
         vertex1.addNeighbor(vertex4);
+        vertex1.addNeighbor(vertex2);
         vertex4.addNeighbor(vertex5);
         vertex2.addNeighbor(vertex3);
 

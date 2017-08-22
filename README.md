@@ -10,6 +10,6 @@
 4. Depth First Search - Stack and recursive implementations:  
    com.algorithms.search.DepthFirstSearch.StackImplementation  
    com.algorithms.search.DepthFirstSearch.RecursionImplementation  
-5. Fibonacci sequence - recursive and non-recursive implementations:
+5. Fibonacci sequence - recursive and non-recursive implementations:    
    com.algorithms.other.Fibonacci.Fibonacci
    com.algorithms.other.Fibonacci.BetterFibonacci

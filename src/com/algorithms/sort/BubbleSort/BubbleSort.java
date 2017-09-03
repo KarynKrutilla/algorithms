@@ -33,6 +33,10 @@ public class BubbleSort {
 
     /**
      * Uses bubble sort to sort the input array of ints
+     * bubble sort =
+     *    loop through array
+     *    compare each adjacent pair
+     *    on each loop ignore the next right-most element
      * @param nums the array to sort
      * @return the sorted array
      */
